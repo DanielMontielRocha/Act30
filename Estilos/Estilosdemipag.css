@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	text-align: center;
+}
+#Contenido{
+	width: 1200px;
+	margin: 10px; 
+	text-align: center;
+}
+#Encabezado{
+	
+	background-color:FF3300;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
+	color:white;
+}
+#Barra{
+	background-color:003366;
+	padding: 5px 15px;
+	margin-top: 10px;
+}
+#Botones li{
+	 display: inline-block;
+	 list-style: none;
+	 padding: 6px; 
+	 font:bold 15px verdana,sans-serif; 
+	 background-color:00CCCC;
+	 color:white;
+	 width: 200px;
+	 text-align: center;
+	 border-radius: 10px;
+}
+#Seccion{
+	float: left;
+	width: 660px;
+	margin: 20px;
+}
+#Lateral{
+	float:left;
+	width: 220px;
+	margin: 20px 0px;
+	padding: 20px;
+	background-color:CCFFCC;
+	border-radius: 30px;
+}
+#Pie{
+	clear: both;
+	text-align: center;
+	border-top: 3px;
+}
+h1,img{
+display:inline-block;
+}
